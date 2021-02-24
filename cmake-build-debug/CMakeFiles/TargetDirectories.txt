@@ -1,0 +1,3 @@
+C:/Users/Szron/CLionProjects/Kropkowana_Zebra/cmake-build-debug/CMakeFiles/Kropkowana_Zebra.dir
+C:/Users/Szron/CLionProjects/Kropkowana_Zebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Szron/CLionProjects/Kropkowana_Zebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
